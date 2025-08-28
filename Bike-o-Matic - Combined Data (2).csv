@@ -1,0 +1,67 @@
+Trip ID,Start Time,Start Hours,End Time,Start Station,End Station,User Type,Duration,Duration Minutes,Round,Start Station Name,End Station Name,Trip Route
+10001,2023-05-01 08:02,08,2023-05-01 08:19,1,2,Registered,0.01180555556,17,17,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10002,2023-05-01 10:10,10,2023-05-01 10:30,1,2,Casual,0.01388888889,20,20,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10003,2023-05-01 08:25,08,2023-05-01 08:45,1,2,Registered,0.01388888889,20,20,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10004,2023-05-01 11:48,11,2023-05-01 12:10,3,4,Casual,0.01527777778,22,22,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10005,2023-05-01 09:00,09,2023-05-01 09:18,3,4,Casual,0.0125,18,18,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10006,2023-05-01 18:05,18,2023-05-01 18:20,3,4,Registered,0.01041666667,15.00000001,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10007,2023-05-01 09:15,09,2023-05-01 09:33,1,2,Registered,0.0125,18.00000001,18,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10008,2023-05-01 14:25,14,2023-05-01 14:42,3,4,Casual,0.01180555556,17,17,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10009,2023-05-01 17:30,17,2023-05-01 17:45,1,2,Registered,0.01041666667,15.00000001,15,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10010,2023-05-01 13:35,13,2023-05-01 13:53,3,4,Casual,0.0125,18.00000001,18,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10011,2023-05-01 08:10,08,2023-05-01 08:28,1,2,Registered,0.0125,18,18,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10012,2023-05-01 10:15,10,2023-05-01 10:35,3,4,Casual,0.01388888888,19.99999999,20,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10013,2023-05-01 14:20,14,2023-05-01 14:40,1,2,Casual,0.01388888889,20,20,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10014,2023-05-01 15:45,15,2023-05-01 16:00,3,4,Registered,0.01041666666,15,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10015,2023-05-01 09:20,09,2023-05-01 09:37,1,2,Casual,0.01180555555,16.99999999,17,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10016,2023-05-01 18:25,18,2023-05-01 18:40,3,4,Registered,0.01041666667,15.00000001,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10017,2023-05-01 12:15,12,2023-05-01 12:32,1,2,Registered,0.01180555556,17,17,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10018,2023-05-01 16:50,16,2023-05-01 17:05,3,4,Casual,0.01041666666,15,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10019,2023-05-01 19:00,19,2023-05-01 19:15,1,2,Registered,0.01041666667,15.00000001,15,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10020,2023-05-01 11:40,11,2023-05-01 11:55,3,4,Casual,0.01041666667,15.00000001,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10021,2023-05-01 08:35,08,2023-05-01 08:55,2,1,Registered,0.01388888889,20,20,Dadar Railway Station,Bandra Railway Station,2 -> 1
+10022,2023-05-01 10:45,10,2023-05-01 11:00,4,3,Casual,0.01041666667,15.00000001,15,Andheri Railway Station,Chembur Railway Station,4 -> 3
+10023,2023-05-01 14:30,14,2023-05-01 14:45,1,4,Casual,0.01041666667,15.00000001,15,Bandra Railway Station,Andheri Railway Station,1 -> 4
+10024,2023-05-01 15:55,15,2023-05-01 16:10,3,2,Registered,0.01041666666,15,15,Chembur Railway Station,Dadar Railway Station,3 -> 2
+10026,2023-05-01 18:30,18,2023-05-01 18:50,4,3,Registered,0.01388888888,19.99999999,20,Andheri Railway Station,Chembur Railway Station,4 -> 3
+10027,2023-05-01 12:20,12,2023-05-01 12:35,2,3,Registered,0.01041666666,15,15,Dadar Railway Station,Chembur Railway Station,2 -> 3
+10028,2023-05-01 16:55,16,2023-05-01 17:10,1,3,Casual,0.01041666667,15.00000001,15,Bandra Railway Station,Chembur Railway Station,1 -> 3
+10029,2023-05-01 19:05,19,2023-05-01 19:25,4,1,Registered,0.01388888889,20,20,Andheri Railway Station,Bandra Railway Station,4 -> 1
+10030,2023-05-01 11:45,11,2023-05-01 12:00,3,2,Casual,0.01041666666,15,15,Chembur Railway Station,Dadar Railway Station,3 -> 2
+10031,2023-05-01 07:50,07,2023-05-01 08:05,4,2,Registered,0.01041666666,15,15,Andheri Railway Station,Dadar Railway Station,4 -> 2
+10032,2023-05-01 11:10,11,2023-05-01 11:25,2,3,Casual,0.01041666666,15,15,Dadar Railway Station,Chembur Railway Station,2 -> 3
+10033,2023-05-01 15:15,15,2023-05-01 15:30,1,3,Casual,0.01041666667,15.00000001,15,Bandra Railway Station,Chembur Railway Station,1 -> 3
+10034,2023-05-01 16:15,16,2023-05-01 16:35,4,1,Registered,0.01388888888,19.99999999,20,Andheri Railway Station,Bandra Railway Station,4 -> 1
+10035,2023-05-01 10:05,10,2023-05-01 10:20,2,4,Casual,0.01041666666,15,15,Dadar Railway Station,Andheri Railway Station,2 -> 4
+10036,2023-05-01 18:45,18,2023-05-01 19:00,3,1,Registered,0.01041666666,15,15,Chembur Railway Station,Bandra Railway Station,3 -> 1
+10037,2023-05-01 13:10,13,2023-05-01 13:25,4,2,Registered,0.01041666667,15.00000001,15,Andheri Railway Station,Dadar Railway Station,4 -> 2
+10038,2023-05-01 17:20,17,2023-05-01 17:37,1,2,Casual,0.01180555556,17,17,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10039,2023-05-01 20:00,20,2023-05-01 20:15,3,4,Registered,0.01041666666,15,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10040,2023-05-01 12:15,12,2023-05-01 12:35,2,1,Casual,0.01388888889,20,20,Dadar Railway Station,Bandra Railway Station,2 -> 1
+10041,2023-05-01 08:10,08,2023-05-01 08:25,1,2,Registered,0.01041666666,15,15,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10042,2023-05-01 08:15,08,2023-05-01 08:30,2,1,Casual,0.01041666666,15,15,Dadar Railway Station,Bandra Railway Station,2 -> 1
+10043,2023-05-01 18:20,18,2023-05-01 18:35,1,2,Casual,0.01041666666,15,15,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10044,2023-05-01 18:25,18,2023-05-01 18:40,2,1,Registered,0.01041666667,15.00000001,15,Dadar Railway Station,Bandra Railway Station,2 -> 1
+10045,2023-05-01 08:45,08,2023-05-01 09:00,1,2,Casual,0.01041666666,15,15,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10046,2023-05-01 08:50,08,2023-05-01 09:05,2,1,Registered,0.01041666666,15,15,Dadar Railway Station,Bandra Railway Station,2 -> 1
+10047,2023-05-01 18:30,18,2023-05-01 18:45,1,2,Registered,0.01041666666,15,15,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10048,2023-05-01 18:35,18,2023-05-01 18:50,2,1,Casual,0.01041666666,15,15,Dadar Railway Station,Bandra Railway Station,2 -> 1
+10049,2023-05-01 08:20,08,2023-05-01 08:35,3,4,Registered,0.01041666667,15.00000001,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10050,2023-05-01 08:25,08,2023-05-01 08:40,4,3,Casual,0.01041666666,15,15,Andheri Railway Station,Chembur Railway Station,4 -> 3
+10051,2023-05-01 18:40,18,2023-05-01 18:55,3,4,Casual,0.01041666666,15,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10052,2023-05-01 18:45,18,2023-05-01 19:00,4,3,Registered,0.01041666666,15,15,Andheri Railway Station,Chembur Railway Station,4 -> 3
+10053,2023-05-01 08:30,08,2023-05-01 08:45,3,4,Casual,0.01041666667,15.00000001,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10054,2023-05-01 08:35,08,2023-05-01 08:50,4,3,Registered,0.01041666666,15,15,Andheri Railway Station,Chembur Railway Station,4 -> 3
+10055,2023-05-01 18:50,18,2023-05-01 19:05,3,4,Registered,0.01041666667,15.00000001,15,Chembur Railway Station,Andheri Railway Station,3 -> 4
+10056,2023-05-01 18:55,18,2023-05-01 19:10,4,3,Casual,0.01041666666,15,15,Andheri Railway Station,Chembur Railway Station,4 -> 3
+10057,2023-05-01 08:55,08,2023-05-01 09:10,1,2,Registered,0.01041666666,15,15,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10211,2023-05-10 17:10,17,2023-05-10 17:30,1,2,Registered ,0.01388888888,19.99999999,20,Bandra Railway Station,Dadar Railway Station,1 -> 2
+10212,2023-05-10 17:20,17,2023-05-10 17:45,1,4,Registered ,0.01736111112,25.00000001,25,Bandra Railway Station,Andheri Railway Station,1 -> 4
+10213,2023-05-10 18:00,18,2023-05-10 18:20,3,2,Casual ,0.01388888889,20,20,Chembur Railway Station,Dadar Railway Station,3 -> 2
+10214,2023-05-10 18:10,18,2023-05-10 18:40,4,1,Registered ,0.02083333334,30,30,Andheri Railway Station,Bandra Railway Station,4 -> 1
+10215,2023-05-10 19:00,19,2023-05-10 19:15,2,3,Casual ,0.01041666667,15.00000001,15,Dadar Railway Station,Chembur Railway Station,2 -> 3
+10216,2023-05-10 19:10,19,2023-05-10 19:30,1,3,Registered ,0.01388888889,20,20,Bandra Railway Station,Chembur Railway Station,1-> 3
+10217,2023-05-10 19:20,19,2023-05-10 19:50,4,2,Casual ,0.02083333334,30,30,Andheri Railway Station,Dadar Railway Station,4 -> 2
+10218,2023-05-10 19:30,19,2023-05-10 19:55,3,1,Registered ,0.01736111111,25,25,Chembur Railway Station,Bandra Railway Station,3 -> 1
+10219,2023-05-10 20:00,20,2023-05-10 20:20,2,4,Registered ,0.01388888888,19.99999999,20,Dadar Railway Station,Andheri Railway Station,2 -> 4
+10220,2023-05-10 20:10,20,2023-05-10 20:35,4,3,Casual ,0.01736111111,25,25,Andheri Railway Station,Chembur Railway Station,4 -> 3
